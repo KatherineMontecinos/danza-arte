@@ -1,0 +1,193 @@
+* {
+	font-family: "Latolight";
+}
+
+header {
+	position: fixed;
+	background-color: white;
+	top: 0;
+	z-index: 2;
+}
+
+.titulo {
+	text-align: center;
+	font-size: 25px;
+	padding-top: 30px;
+	color: #192951;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+}
+
+ul {
+	text-align: center;
+
+}
+
+li {
+	display: inline-block;
+	padding: 30px;
+}
+
+.imagen1 {
+	background-image: url('../img/dance_1.jpg');
+	max-width: 100%;
+	height: 410px;
+	background-size: cover;
+	margin-top: 150px;
+}
+
+h1 {
+	color: #C6C6C7;
+	text-align: left;
+	font-size: 70px;
+	color: #D6D0D0;
+	padding-top: 60px;
+}
+
+.textoimg1 {
+	text-align: left;
+	font-size: 14px;
+	color: #C6C6C7;
+	width: 210px;
+	padding-top: 20px;
+}
+
+.cuadrado {
+	background-color: #020E1C;
+	color: rgb(83, 88, 95);
+	border-radius: 4px;
+	width: 70px;
+	padding: 10px 20px;
+	margin-top: 20px;
+	font-size: 14px;
+	text-align: center;
+}
+
+.background2 {
+	background-image: url('../img/textura_2.jpg');
+	max-width: 100%;
+	height: 450px; 
+	background-size: cover;
+	text-align: center;
+}
+
+.texto2 {
+	width: 650px;
+	font-size: 23px;
+	padding-top: 70px;
+	margin: 0 auto;
+}
+	
+.decoracion1 {
+	width: 200px;
+	height: 150px;
+}
+
+.cuadrado2 {
+	background-color: #1A2952;
+	width: 250px;
+	color: white;
+	padding: 20px;
+	border-radius: 4px;
+	margin: 0 auto;
+}
+
+.instructor1, .instructor2 {
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 315px;
+	border: 1px solid #1A2952;
+}
+
+.instructor1 {
+	background-image: url('../img/instructor_4.jpg');	
+}
+
+.instructor2 {
+	background-image: url('../img/profesor_9.jpg');
+}
+
+.cuadrado3 {
+	background-color: #1A2952; 
+	width: 520px;
+	height: 55px;
+	position: relative;
+	top: 230px;
+	left: 420px;
+	border-radius: 3px;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+.background3 {
+	background-image: url('../img/textura_2.jpg');
+	width: 100%;
+	height: 300px;
+}
+
+.texto3 {
+	font-size: 40px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	font-style: italic;
+	padding-top: 100px;
+}
+
+.background4 {
+	background-color: #1A2952;
+	width: 100%;
+	height: 400px;
+}
+
+.mapa {
+	padding-top: 80px;
+}
+
+.letramapa, .letramapa2 {
+	text-align: left;
+	width: 350px;
+	color: #C6C6C7;
+	font-size: 13px;
+}
+
+.letramapa {
+	padding-top: 80px;
+}
+
+.visitanos {
+	font-size: 20px;
+	color: #C6C6C7;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+.background5 {
+	background-image: url('../img/shoes_1.jpg');
+	background-repeat: no-repeat;
+	max-width: 100%;
+	height: 470px;
+}
+
+.background6 {
+	background-color: #1A2952;
+}
+
+.footer1 {
+	width: 100%;
+	height: 30px;
+	font-size: 13px;
+	color:#C6C6C7;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+
+
+

@@ -1,0 +1,85 @@
+/* ESTE ES EL CSS COMUN */
+
+* {
+	font-family: "Latolight";
+}
+
+header {
+	position: fixed;
+	background-color: white;
+	top: 0;
+	z-index: 2;
+}
+
+.titulo {
+	text-align: center;
+	font-size: 25px;
+	padding-top: 30px;
+	color: #192951;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(83, 88, 95);
+}
+
+ul {
+	text-align: center;
+
+}
+
+li {
+	display: inline-block;
+	padding: 30px;
+}
+
+.imagen1 {
+	max-width: 100%;
+	height: 410px;
+	background-size: cover;
+	margin-top: 150px;
+}
+
+.background3 {
+	background-image: url('../img/textura_2.jpg');
+	width: 100%;
+	height: 300px;
+}
+
+.texto3 {
+	font-size: 40px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	font-style: italic;
+	padding-top: 100px;
+}
+
+
+.background5 {
+	background-image: url('../img/shoes_1.jpg');
+	background-repeat: no-repeat;
+	max-width: 100%;
+	height: 470px;
+}
+
+.background6 {
+	background-color: #1A2952;
+}
+
+.footer1 {
+	width: 100%;
+	height: 30px;
+	font-size: 13px;
+	color:#C6C6C7;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.background2 {	
+	max-width: 100%;
+	height: 450px; 
+	background-size: cover;
+	text-align: center;
+}
+
